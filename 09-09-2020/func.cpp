@@ -1,5 +1,6 @@
 #include <iostream>
 
+//Hello world using function
 void print_message(int a)
 {
   std::cout << "Hello world!\n";

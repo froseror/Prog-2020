@@ -1,5 +1,5 @@
 #include <iostream>
-
+//average function
 double average(double a, double b); 
 
 int main (void)

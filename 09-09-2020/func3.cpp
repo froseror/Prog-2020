@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdlib>
-
+//atof function
 double average(double x, double y);
 
 int main(int argc, char *argv[]) {
